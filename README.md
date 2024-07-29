@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristofer</h1>
-<h3 align="center">A passionate full stack and .Net developer in Canada</h3>
-
-- 🔭 I’m currently working on [Smart Attendance using C# Asp.Net Core and Python](https://github.com/CrisTreglia/SmartAttendance)
-
-- 🌱 I’m currently learning **Node.js, C# Asp.Net and Python for backend and React for frontend**
-
-- 👨‍💻 All of my projects are available at [https://github.com/CrisTreglia](https://github.com/CrisTreglia)
-
-- 💬 Ask me about **SQL, C# Asp.Net**
+<h3 align="center">A Full Stack and .Net developer</h3>
 
 - 📫 How to reach me **cristofertreglia@outlook.com**
 

@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cristofertreglia@outlook.com**
 
-- 📄 Know about my experiences [on LinkedIn: https://www.linkedin.com/in/cristofertreglia/](on LinkedIn: https://www.linkedin.com/in/cristofertreglia/)
+- 📄 Know about my experiences (on LinkedIn: https://www.linkedin.com/in/cristofertreglia/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
